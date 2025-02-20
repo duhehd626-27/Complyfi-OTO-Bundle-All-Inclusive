@@ -11,13 +11,13 @@
 <div class="block-tool-drag" draggable="true">&nbsp;</div>
 <div class="block-content">
 <p><strong><em>Complyfi Front-end, OTO &amp; Bundle Links:</em></strong></p>
-<p>🔴✅ <strong>Front End (FE):</strong></p>
+<p>✅ <strong>Front End (FE):</strong></p>
 </div>
 </div>
 <div class="block block-p">
 <div class="block-content">
 <p><a href="https://viewthis.link/complyfi" target="_blank" rel="noopener noreferrer nofollow">=&gt;&gt; Get Complyfi Elite</a></p>
-<p>🔴✅ <strong>Complyfi All Inclusive Bundle:</strong></p>
+<p>✅ <strong>Complyfi All Inclusive Bundle:</strong></p>
 </div>
 </div>
 <div class="block block-p">
@@ -26,38 +26,35 @@
 </div>
 <div class="block block-p">
 <div class="block-content">
-<p><strong>OTO 1 (Pro):</strong></p>
+<p><strong>✅&nbsp;OTO 1 (Pro):</strong></p>
 </div>
 </div>
 <div class="block block-p">
 <div class="block-content">
 <p><a href="https://jvz1.com/c/764589/415583/" target="_blank" rel="noopener noreferrer nofollow">=&gt;&gt; Get Complyfi OTO 1</a></p>
-<p><strong>OTO 2 (DFY):</strong></p>
+<p><strong>✅&nbsp;OTO 2 (DFY):</strong></p>
 </div>
 </div>
 <div class="block block-p">
 <div class="block-content">
 <p><a href="https://jvz7.com/c/764589/415632/" target="_blank" rel="noopener noreferrer nofollow">=&gt;&gt; Get Complyfi OTO 2</a></p>
-<p><strong>OTO 3 (Converti Pro):</strong></p>
+<p><strong>✅&nbsp;OTO 3 (Converti Pro):</strong></p>
 </div>
 </div>
 <div class="block block-p">
 <div class="block-content">
 <p><a href="https://jvz1.com/c/764589/415593/" target="_blank" rel="noopener noreferrer nofollow">=&gt;&gt; Get Complyfi OTO 3</a></p>
-<p><strong>OTO 4 (Reseller):</strong></p>
+<p><strong>✅&nbsp;OTO 4 (Reseller):</strong></p>
 </div>
 </div>
 <div class="block block-p">
 <div class="block-content">
 <p><a href="https://jvz1.com/c/764589/415595/" target="_blank" rel="noopener noreferrer nofollow">=&gt;&gt; Get Complyfi OTO 4</a></p>
-</div>
-</div>
-</div>
-<div class="block-content">&nbsp;</div>
-</div>
-<div class="block block-p">&nbsp;</div>
-<hr />
 <h2>2. Complyfi OTO Overview Table</h2>
+</div>
+</div>
+</div>
+</div>
 <p>One of the most common questions users ask is: <em>&ldquo;Which version of Complyfi should I get?&rdquo;</em> This table offers a snapshot of the front-end and each OTO side by side, so you can see the high-level differences at a glance.</p>
 <table>
 <thead>
